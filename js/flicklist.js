@@ -2,7 +2,7 @@
 
 var api = {
 	root: "https://api.themoviedb.org/3",
-	token: "" // TODO put your api key here
+	token: "5ea7a6860085ea78153f972a70ba3273" // TODO put your api key here
 }
 
 /**
